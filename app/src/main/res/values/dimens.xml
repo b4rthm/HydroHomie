@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_stroke_width">14dp</dimen>
+    <dimen name="progress_view_size">200dp</dimen>
+    <dimen name="screen_padding">24dp</dimen>
+</resources>

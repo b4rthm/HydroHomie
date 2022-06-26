@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="water_primary">#1E88E5</color>
+    <color name="water_primary_dark">#0D47A1</color>
+    <color name="water_secondary">#00ACC1</color>
+
+    <color name="progress_fill">#1E88E5</color>
+    <color name="progress_track">#1F000000</color>
+
+    <color name="notification_color">#1A6196</color>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HydroHomie</string>
+
+    <!-- Hauptbildschirm -->
+    <string name="main_title">Heute\'s Wasser</string>
+    <string name="progress_amount">%1$d / %2$d ml</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="goal_reached">Ziel erreicht!</string>
+    <string name="remaining_glasses">Noch %1$d Gläser</string>
+    <string name="glass_size_label">Glasgröße (ml)</string>
+    <string name="action_drink">Trinken</string>
+    <string name="action_undo">Rückgängig</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="next_reminder">Nächste Erinnerung um %1$s</string>
+    <string name="no_reminder">Heute keine weiteren Erinnerungen</string>
+    <string name="reminders_off">Erinnerungen sind ausgeschaltet</string>
+    <string name="exact_alarm_hint">Android erlaubt keine genauen Erinnerungen. Tippen, um das zu erlauben.</string>
+
+    <!-- Einstellungen -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_goal_label">Tagesziel (ml)</string>
+    <string name="settings_glass_label">Standard-Glasgröße (ml)</string>
+    <string name="settings_window_label">Trinkzeitfenster</string>
+    <string name="settings_start">Beginn</string>
+    <string name="settings_end">Ende</string>
+    <string name="settings_notifications">Erinnerungen</string>
+    <string name="settings_language">Sprache</string>
+    <string name="action_save">Speichern</string>
+    <string name="action_back">Zurück</string>
+    <string name="rule_of_thumb">Eine Faustregel ist 30–40 ml Wasser pro kg Körpergewicht.</string>
+    <string name="language_english">English</string>
+    <string name="language_german">Deutsch</string>
+
+    <!-- Validierung -->
+    <string name="error_required">Bitte einen Wert eingeben</string>
+    <string name="error_not_a_number">Bitte ganze Milliliter eingeben</string>
+    <string name="error_not_positive">Bitte mehr als 0 eingeben</string>
+    <string name="error_too_large">Bitte höchstens %1$d ml eingeben</string>
+    <string name="error_invalid_range">Der Beginn muss vor dem Ende liegen</string>
+
+    <!-- Benachrichtigungen -->
+    <string name="channel_reminders_name">Trinkerinnerungen</string>
+    <string name="channel_reminders_description">Erinnert dich ans Trinken</string>
+    <string name="notification_drink_amount">Trinke %1$d ml Wasser</string>
+    <string name="notification_next_at">nächste um %1$s</string>
+    <string name="notification_last_of_the_day">letzte für heute</string>
+
+    <!-- Die Titel der Erinnerungen, einer wird zufällig ausgewählt -->
+    <string-array name="motivation_titles">
+        <item>Trink Wasser!</item>
+        <item>Du bist dehydriert!</item>
+        <item>Vergiss nicht zu trinken!</item>
+        <item>Wasser, Wasser, Wasser!</item>
+        <item>Dein Körper braucht Wasser!</item>
+        <item>Ein Glas, bitte!</item>
+        <item>Hydriere dich!</item>
+    </string-array>
+</resources>

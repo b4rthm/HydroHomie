@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HydroHomie" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/water_primary</item>
+        <item name="colorSecondary">@color/water_secondary</item>
+        <item name="android:statusBarColor">@color/water_primary_dark</item>
+    </style>
+
+    <style name="Theme.HydroHomie" parent="Base.Theme.HydroHomie" />
+</resources>

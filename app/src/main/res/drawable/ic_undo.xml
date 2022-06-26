@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24.5"
+    android:tint="#FFFFFFFF">
+    <!-- The path spans y = 7 .. 31.5, shifted up so it lies inside the viewport. -->
+    <group android:translateY="-7">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M12.5,8C9.85,8 7.45,9 5.6,10.6L2,7L2,16L11,16L7.38,12.38C8.77,11.22 10.54,10.5 12.5,10.5c4.97,0 9,4.03 9,9s-4.03,9 -9,9c-4.63,0 -8.44,-3.5 -8.94,-8H1.1c0.5,6.03 5.52,11 11.4,11 6.31,0 11.4,-5.09 11.4,-11.4C23.9,12.5 18.81,8 12.5,8z" />
+    </group>
+</vector>
